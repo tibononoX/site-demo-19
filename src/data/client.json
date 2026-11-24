@@ -1,0 +1,85 @@
+{
+  "lang": "fr",
+  "name": "Élite Conduite",
+  "initial": "É",
+  "trade": "driving",
+  "tradeLabel": "Auto-école et moto-école · Nyon et Genève-Plainpalais",
+  "theme": { "mode": "dark", "accent": "#c9a227", "display": "serif", "hero": "type" },
+  "hero": {
+    "eyebrow": "Nyon · Genève-Plainpalais",
+    "title": "Think different,",
+    "titleEm": "drive better.",
+    "lead": "Auto-école et moto-école à Nyon et à Genève-Plainpalais : premiers secours, théorie, sensibilisation, leçons de conduite, 2 phases et permis TPP B121/B122."
+  },
+  "rating": { "score": "4,9", "count": 88, "source": "Google" },
+  "intro": {
+    "title": "Former différemment pour former mieux",
+    "paragraphs": [
+      "Élite Conduite personnalise ses méthodes d'apprentissage : maîtrise du véhicule en toutes circonstances, appréhension du danger, gestion du stress au volant et aux examens. Votre monitrice compte plus de 15 ans d'expérience comme monitrice auto-moto-école en Suisse.",
+      "Les élèves sont accueillis du lundi au samedi, uniquement sur rendez-vous, à Nyon et à Genève-Plainpalais. Les leçons se donnent en Audi A1 ou Audi Q2, des véhicules récents à boîte automatique."
+    ],
+    "facts": ["+15 ans d'expérience", "Nyon et Genève", "Du lundi au samedi, sur RDV", "Moto-école agréée 2 phases"]
+  },
+  "services": {
+    "title": "Les formations",
+    "items": [
+      { "title": "Premiers secours", "text": "Cours obligatoire de 10 h en salle, avant de demander sa date d'examen théorique." },
+      { "title": "Théorie", "text": "Cours interactifs de 2 h, collectifs ou individuels, pour s'entraîner avant l'examen théorique." },
+      { "title": "Sensibilisation", "text": "Cours obligatoire de 8 h en salle : connaissances et compétences nécessaires au trafic routier." },
+      { "title": "Leçons de conduite", "text": "Leçons pratiques voiture, moto ou TPP B121/B122, jusqu'à la présentation à l'examen pratique." },
+      { "title": "Moto-école", "text": "Les 12 heures de cours moto obligatoires, cours d'initiation et de perfectionnement, et cours 2 phases moto sur piste fermée." },
+      { "title": "Après le permis", "text": "Formation complémentaire 2 phases, éco-conduite et échange de permis." }
+    ]
+  },
+  "prices": {
+    "title": "Nos tarifs",
+    "lead": "Les tarifs publiés par Élite Conduite sur son site, en CHF.",
+    "groups": [
+      { "title": "Nyon · voiture", "items": [
+        { "label": "1er secours", "detail": "10 h, par Firstmed", "price": "150.–" },
+        { "label": "Théorie", "detail": "2 h", "price": "60.–" },
+        { "label": "Sensibilisation", "detail": "8 h de cours", "price": "190.–" },
+        { "label": "1 leçon pratique", "detail": "voiture, moto ou TPP B121", "price": "99.–" },
+        { "label": "Assurance", "detail": "obligatoire à la 1re leçon", "price": "80.–" },
+        { "label": "Présentation à l'examen pratique", "detail": "avec 1 leçon de conduite", "price": "250.–" },
+        { "label": "Livre de théorie « Bien conduire »", "price": "40.–" }
+      ] },
+      { "title": "Nyon · packs", "items": [
+        { "label": "Pack Excellence", "detail": "1er secours, sensibilisation, 10 leçons, assurance", "price": "1300.–" },
+        { "label": "Pack Elite", "detail": "sensibilisation, 5 leçons, assurance", "price": "700.–" },
+        { "label": "Moto : initiation / perfectionnement", "price": "99.–" },
+        { "label": "Moto : 12 h obligatoires", "price": "550.–" },
+        { "label": "Pack Moto", "detail": "sensibilisation, 12 h moto obligatoires", "price": "700.–" }
+      ] },
+      { "title": "Genève-Plainpalais", "items": [
+        { "label": "1 leçon pratique", "detail": "voiture, moto ou TPP", "price": "90.–" },
+        { "label": "Présentation à l'examen pratique", "detail": "avec 1 leçon de conduite", "price": "250.–" },
+        { "label": "Pack Excellence", "detail": "10 leçons pratiques", "price": "850.–" },
+        { "label": "Pack Elite", "detail": "6 leçons pratiques", "price": "520.–" },
+        { "label": "Moto : initiation ou préparation d'examen", "detail": "1 h 30", "price": "150.–" },
+        { "label": "Moto : 12 h obligatoires", "price": "350.–" },
+        { "label": "Livre de théorie « Bien conduire »", "price": "40.–" }
+      ] }
+    ]
+  },
+  "steps": {
+    "title": "Du 1er secours au permis",
+    "items": [
+      { "title": "Premiers secours", "text": "Le cours de 10 h est obligatoire avant l'examen théorique." },
+      { "title": "Théorie et sensibilisation", "text": "Cours de théorie pour préparer l'examen, puis le cours de sensibilisation de 8 h." },
+      { "title": "Leçons et examen", "text": "Des leçons pratiques jusqu'à la présentation à l'examen, puis la formation 2 phases." }
+    ]
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "lead": "Accueil du lundi au samedi, uniquement sur rendez-vous.",
+    "phones": [
+      { "label": "Nyon (VD)", "display": "021 311 31 10", "tel": "+41213113110" },
+      { "label": "Genève", "display": "022 335 72 72", "tel": "+41223357272" },
+      { "label": "Mobile", "display": "079 487 87 99", "tel": "+41794878799" }
+    ],
+    "email": "info@elite-conduite.ch",
+    "address": ["Chemin Falconnier 1B, 1260 Nyon", "Rue Pictet-de-Bock 9, 1205 Genève"],
+    "hours": ["Du lundi au samedi", "Uniquement sur rendez-vous"]
+  }
+}
